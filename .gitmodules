@@ -1,0 +1,3 @@
+[submodule "social-app"]
+	path = social-app
+	url = https://github.com/idaka123/social-app
